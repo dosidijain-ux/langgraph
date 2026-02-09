@@ -127,6 +127,7 @@ plugins:
         - concepts/why-langgraph.md
         - examples/index.md
         - guides/index.md
+        - guides/modern-pop-guitar-practice-app.md
         - how-tos/auth/custom_auth.md
         - how-tos/auth/openapi_security.md
         - how-tos/autogen-integration.md
@@ -205,6 +206,7 @@ nav:
 
   - Guides:
     - guides/index.md
+    - Modern pop guitar practice app guide: guides/modern-pop-guitar-practice-app.md
     - Agent development:
       - Overview: agents/overview.md
       - Run an agent: agents/run_agents.md

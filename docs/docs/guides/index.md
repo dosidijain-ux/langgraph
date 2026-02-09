@@ -7,6 +7,10 @@ The pages in this section provide a conceptual overview and how-tos for the foll
 - [Overview](../agents/overview.md): Use prebuilt components to build an agent.
 - [Run an agent](../agents/run_agents.md): Run an agent by providing input, interpreting output, enabling streaming, and controlling execution limits.
 
+## Practice planning
+
+- [Modern pop guitar practice app guide](modern-pop-guitar-practice-app.md): Build a practical practice routine and an app plan for a crunch/drive electric guitar trainer.
+
 ## LangGraph APIs
 
 - [Graph API](../concepts/low_level.md): Use the Graph API to define workflows using a graph paradigm.
@@ -30,4 +34,3 @@ These capabilities are available in both LangGraph OSS and the LangGraph Platfor
 - [Multi-agent](../concepts/multi_agent.md): Break down a complex workflow into multiple agents.
 - [MCP](../concepts/mcp.md): Use MCP servers in a LangGraph graph.
 - [Evaluation](../agents/evals.md): Use LangSmith to evaluate your graph's performance.
-
